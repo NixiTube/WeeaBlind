@@ -1,5 +1,9 @@
 ## ADDED
 - Experimental installation script (Windows only for now) Use at your own risk
+```
+python dependency_installer.py
+# -y Accept the install of everything
+```
 
 # Weeablind
 
