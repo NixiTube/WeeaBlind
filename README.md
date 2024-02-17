@@ -1,3 +1,6 @@
+## ADDED
+- Experimental installation script (Windows only for now) Use at your own risk
+
 # Weeablind
 
 A program to dub multi-lingual media and anime using modern AI speech synthesis, diarization, language identification, and voice cloning.
